@@ -148,4 +148,5 @@ Now after rebooting and connecting hopefully we get a root shell:
 | DT9205A Multimètre Numérique               | 29.000 (was 38.000) | [link](https://tuni-smart-innovation.com/products/dt9205a-multimetre-numerique?_pos=5&_sid=a6e994e89&_ss=r)                                                            |
 | Module Convertisseur CP2102 USB → UART TTL | 14.000 (was 17.000) | [link](https://tuni-smart-innovation.com/products/module-convertisseur-cp2102-5pin-usb-vers-uart-ttl?srsltid=AfmBOoqtrKX8orEXKNrZl-NZer1GE3Ar1Ufu81QGgGFdHIjO0gsD9LXZ) |
 | Barrette Sécable Double 2.54 mm 40 broches | 1.700               | [link](https://tuni-smart-innovation.com/products/barrette-secable-double-2-54-m-m-40-pines?_pos=34&_sid=e9ee36d10&_ss=r)                                              |
+| CH341A 24/25 Séries EEPROM Flash BIOS USB  | 39.000 (was 51.000)              | [link]([https://tuni-smart-innovation.com/products/barrette-secable-double-2-54-m-m-40-pines?_pos=34&_sid=e9ee36d10&_ss=r](https://tuni-smart-innovation.com/products/programmateur-ch341a-24-25-series-eeprom-flash-bios-usb-pince-sop8?_pos=4&_sid=2cbb910a7&_ss=r))                                              |
 
